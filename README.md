@@ -5,7 +5,7 @@ random-password
 This project uses composer. Copy of mazraara/random-password:  https://github.com/mazraara/random-password
 
 ```
-$ composer require mazraara/random-password
+$ composer require lespointscom/random-password
 ```
 
 ## Usage
